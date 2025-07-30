@@ -1,0 +1,55 @@
+{
+"description": "Handheld selfie shot of a man in full ancient Greek armor on a dusty
+road, holding the camera at arm’s length. Behind him, an enormous wooden Trojan
+horse is being wheeled toward towering stone city gates. He smirks and delivers a
+casual line to the camera, clearly aware of the absurdity of the situation.",
+"style": "cinematic, photorealistic, 4K",
+"camera": "handheld selfie perspective with slight shake, close focus on the man’s
+face with the Trojan horse framed behind him",
+"lighting": "warm late-afternoon sunlight, dusty and golden with soft shadows",
+"room": "ancient battlefield road leading to massive stone gates with distant soldiers
+and primitive wooden carts",
+"elements": [
+"man in bronze Greek armor (plumed helmet, breastplate, greaves)",
+"gigantic wooden Trojan horse with ropes and wooden wheels",
+"massive stone city gates in the distance",
+"distant silhouettes of soldiers pushing the horse"
+],
+"motion": "the man adjusts the selfie angle slightly, glances back at the horse, then
+smirks and speaks to the camera; background figures push the horse slowly forward",
+"ending": "camera holds on the man’s smirk as he winks and freezes mid-expression",
+"text": "none",
+"keywords": [
+"16:9",
+"Trojan horse",
+"ancient Greece",
+"selfie",
+"cinematic",
+"historical comedy"
+],
+{
+"scenes": [
+"start": 0.0,
+"end": 2.0,
+"visual": "Selfie shot: the man in Greek armor raises the camera, framing himself with
+the Trojan horse looming behind him as it creaks forward.",
+"sound": "creaking wooden wheels, faint shouting of distant soldiers, light wind"
+},
+{
+"start": 2.0,
+"end": 4.0,
+"visual": "He glances over his shoulder at the horse, adjusts the camera slightly to
+center it in the shot, then smirks knowingly.",
+"sound": "light armor clinks as he moves, background chatter muffled"
+},
+{
+"start": 4.0,
+"end": 8.0,
+"visual": "Looking directly into the camera, he says: 'Just dropping off a totally normal
+gift. Definitely not suspicious.' He gives a playful wink as the camera freezes on his
+smirk.",
+"sound": "casual voice recording tone, creaking horse wheels fading into the
+background"
+}
+]
+}
